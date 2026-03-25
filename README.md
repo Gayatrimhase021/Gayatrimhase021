@@ -65,7 +65,6 @@ goal: Become a Software Developer
 
 ## 🐍 Contribution Snake
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gayatrimhase021&theme=github-compact&hide_border=true)
 
 
 
